@@ -1,7 +1,9 @@
+<script setup lang="ts">
+import Banner from "./../components/banner.vue";
+</script>
+
 <template>
-  <div>
-    <h2>index page</h2>
-  </div>
+  <Banner />
 </template>
 
 <!-- <script setup>

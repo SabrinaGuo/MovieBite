@@ -4,9 +4,9 @@
   </div>
 </template>
 <script setup lang="ts">
-definePageMeta({
-  layout: "custom",
-});
+// definePageMeta({
+//   layout: "custom",
+// });
 
 const route = useRoute();
 console.log(route.params.id);
