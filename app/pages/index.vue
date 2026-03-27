@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import Banner from "./../components/banner.vue";
+import List from "~/components/List.vue";
+import Banner from "../components/Banner.vue";
 </script>
 
 <template>
   <Banner />
+  <List :movies="[]" />
 </template>
 
 <!-- <script setup>

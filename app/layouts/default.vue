@@ -24,9 +24,7 @@
       </nav>
     </header>
     <slot />
-    <footer
-      class="fixed bottom-0 w-full text-brand-gray text-center p-4 text-xs"
-    >
+    <footer class="w-full text-brand-gray text-center p-4 text-xs">
       Copyright © 2026 Sabrina Guo. All Rights Reserved.
     </footer>
   </div>
