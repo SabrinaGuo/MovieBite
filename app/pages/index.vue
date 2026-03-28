@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import List from "~/components/List.vue";
-import Banner from "../components/Banner.vue";
 </script>
 
 <template>
